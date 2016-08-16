@@ -1,0 +1,16 @@
+body {
+	color: #CFAA32;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+.mesh {background-color: rgba(237,218,157,0.1);}
+
+.nav > li > a {
+color: #CFAA32;
+font-family: Tahoma, Geneva, sans-serif;
+}
+.nav > li > a:hover {
+color: #823894;
+background-color: rgba(237,218,157,0.7)
+}
+
+a {color: #CFAA32;}
